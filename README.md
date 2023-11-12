@@ -1,4 +1,4 @@
-web-hosting - web-entwicklung - it-beratung
+web-development. web-hosting. it-consulting.
 - 👋 Hi, I’m @42web1
 - 👀 I’m interested in web dev and webhosting
 - 📫 How to reach me https://42web.ch
