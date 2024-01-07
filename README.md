@@ -1,5 +1,5 @@
 web-development. web-hosting. it-consulting.
-- 👋 Hi, I’m @42web1
+- 👋 Hi, I’m @42web-ch
 - 👀 I’m interested in web dev and webhosting
 - 📫 How to reach me https://42web.ch
 
